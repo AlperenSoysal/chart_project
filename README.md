@@ -10,3 +10,7 @@
 <li>I took a quickly reviewed my whole folder and files.</li>
 <li>At the and i published it.</li>
 </ul>
+
+<h1>AND THIS IS THE IN APP USAGE VIDEO</h1>
+https://user-images.githubusercontent.com/34598229/170700319-bcb2ad6d-a599-4874-acea-ccb31fa0de04.mp4
+
