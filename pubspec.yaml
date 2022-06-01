@@ -38,6 +38,9 @@ dependencies:
   fl_chart: ^0.50.6
   get: ^4.6.5
   grock: ^0.0.5
+  flutter_bloc: ^8.0.1
+  provider: ^6.0.3
+  flutter_riverpod: ^2.0.0-dev.5
 
 dev_dependencies:
   flutter_test:

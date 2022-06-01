@@ -3,12 +3,12 @@ import 'package:get/get.dart';
 import 'package:grock/grock.dart';
 import 'package:interview_project/core/components/custom_appbar.dart';
 import 'package:interview_project/core/constants/utils/colors/colors.dart';
-import 'package:interview_project/view/home/product/product_detail/components/line_chart.dart';
-import 'package:interview_project/view/home/product/product_detail/components/time_sequence_divider.dart';
-import 'package:interview_project/view/home/product/product_detail/controller/product_detail_controller.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/components/line_chart.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/components/time_sequence_divider.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/controller/product_detail_controller.dart';
 
-class ProductDetailView extends StatelessWidget {
-  ProductDetailView({Key? key}) : super(key: key);
+class ProductDetailViewGetX extends StatelessWidget {
+  ProductDetailViewGetX({Key? key}) : super(key: key);
   final ProductDetailController _controller =
       Get.put(ProductDetailController());
 

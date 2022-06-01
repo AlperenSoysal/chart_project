@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:dio/dio.dart';
-import 'package:interview_project/view/home/product/product_detail/model/product_detail_model.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/model/product_detail_model.dart';
 
 class ProductDetailService {
   static Future<ProductDetail?> fetch() async {

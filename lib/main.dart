@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:interview_project/view/home/product/product_detail/view/product_detail_view.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:interview_project/view/home/product/product_detail/bloc_sm/view/product_detail_view.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/view/product_detail_view.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const ProviderScope(child: MyApp()));
 }
 
 class MyApp extends StatelessWidget {
@@ -17,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ProductDetailView(),
+      home: const ProductDetailViewBloc(),
     );
   }
 }

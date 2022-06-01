@@ -4,7 +4,7 @@ import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:get/get.dart';
 import 'package:interview_project/core/constants/utils/colors/colors.dart';
-import 'package:interview_project/view/home/product/product_detail/controller/product_detail_controller.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/controller/product_detail_controller.dart';
 
 class MyLineChart extends StatefulWidget {
   const MyLineChart({

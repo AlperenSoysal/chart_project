@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:interview_project/view/home/product/product_detail/model/product_detail_model.dart';
-import 'package:interview_project/view/home/product/product_detail/service/service.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/model/product_detail_model.dart';
+import 'package:interview_project/view/home/product/product_detail/getx_sm/service/service.dart';
 
 class ProductDetailController extends GetxController {
   //every variable represents its time sequence data list
