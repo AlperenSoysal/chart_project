@@ -8,7 +8,7 @@
 <li>I got datas from the API and rearranged the stock datas for use in page.(I am calling API just one time at the start)</li>
 <li>I placed whole variables and constants to my page.</li>
 <li>I took a quickly reviewed my whole folder and files.</li>
-<li>At the and i published it.</li>
+<li>At the end i published it.</li>
 </ul>
 
 <h1>AND THIS IS THE APP USAGE VIDEO</h1>
